@@ -1,0 +1,7 @@
+Java Script Notes 
+
+Special Object that is entry point to the Dom
+Document.querySelector();//
+
+
+Document.querySelector('.').textContent = " "; Used to change the Text .
